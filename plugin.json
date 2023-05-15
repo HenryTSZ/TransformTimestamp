@@ -8,5 +8,5 @@
 	"Language": "JavaScript",
 	"Website": "https://github.com/HenryTSZ/TransformTimestamp",
 	"ExecuteFileName": "./build/index.js",
-	"IcoPath": "app.png"
+	"IcoPath": "https://github.com/HenryTSZ/TransformTimestamp/blob/main/app.png?raw=true"
 }
